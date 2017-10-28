@@ -1,0 +1,60 @@
+.fig{
+    text-align: center;
+   margin-top: 1px;
+}
+.fig1{
+    text-align:center;
+    margin-top: 1px;
+    color:white;
+}
+ul {
+    list-style: none;
+    margin-bottom:15px;
+    height: 50px;
+
+}
+a {
+    text-decoration: none;
+    font-family: 'Lora', serif;
+    transition: .5s linear;
+}
+i {
+    margin-right: 10px;
+}
+nav {
+    display: block;
+    width: 810px;
+    margin: 0 auto 30px;
+}
+
+.two ul {
+    background: #013646;
+    overflow: hidden;
+    padding: 0;
+}
+.two li {
+    width:auto;
+    float: left;
+}
+
+.two a {
+    display: block;
+    padding: 1em;
+    border-right: 1px solid black;
+
+    color: whitesmoke;
+}
+.two a:hover {background: limegreen}
+.fram{
+    margin-top: 30px;
+    text-align: center;
+
+}
+.asd{
+    margin-top:30px;
+}
+#size{
+    width: 150px;
+}
+
+html {background: url('111.png')}
